@@ -1,2 +1,2 @@
-# cuddly-octo-barnacle
+# cuddly-octo-barnacle python tutorial
 Python language repo
